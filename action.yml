@@ -1,2 +1,4 @@
 - name: File exists action
   uses: jiangxin/file-exists-action@v1.0.0
+  with:
+  path: 'README.md'
